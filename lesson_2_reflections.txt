@@ -7,3 +7,8 @@ staging area is the intermediate place to hold all the changes that you would li
 
 How can you use the staging area to make sure you have one commit per logical change?
 use git add will only add one update version to the code. then commit will only make that version to master 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to make some new features, or fixing a bug, or a distribution for some specific clients.
+
+
