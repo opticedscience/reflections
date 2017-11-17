@@ -14,3 +14,7 @@ When you want to make some new features, or fixing a bug, or a distribution for 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 merging two branches will combine the changes, addition by each included. deletion by each included
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automatic merging create the message automatically.
+merge manually allow flexibility.
+
