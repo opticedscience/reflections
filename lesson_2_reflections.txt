@@ -11,4 +11,6 @@ use git add will only add one update version to the code. then commit will only 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you want to make some new features, or fixing a bug, or a distribution for some specific clients.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+merging two branches will combine the changes, addition by each included. deletion by each included
 
