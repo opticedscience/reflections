@@ -6,7 +6,7 @@ whne you have collaborators that you would like share your work and work on the 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-
+manually pull allows you to know the difference?
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
